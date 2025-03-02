@@ -1,4 +1,4 @@
-```plaintext
+```mermaid
 C4Model
     Person(student, "Student")
     Person(counselor, "Counselor")
